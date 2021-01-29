@@ -1,0 +1,1006 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"bloc",
+				"inline-block"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"onmos",
+				"onmouseover\tAttr"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"paddi",
+				"padding-top\tproperty"
+			],
+			[
+				"sec",
+				"section\tTag"
+			],
+			[
+				"backgrond",
+				"background-size\tproperty"
+			],
+			[
+				"sty",
+				"style\tAttr"
+			],
+			[
+				"bac",
+				"background-size\tproperty"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"se",
+				"section\t<section>"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"fotn",
+				"font-size\tproperty"
+			],
+			[
+				"html",
+				"html5\tSimple HTML5 Boilerplate"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Admin/Documents/bootstrap/index.html",
+			"settings":
+			{
+				"buffer_size": 9402,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 3442,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "."
+			}
+		},
+		{
+			"file": "/C/Users/Admin/Documents/bootstrap/order.html",
+			"settings":
+			{
+				"buffer_size": 5190,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Admin/Documents/bootstrap/roadster.html",
+			"settings":
+			{
+				"buffer_size": 11478,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "body{\nbackground-color: black;\n\n}\n.hero{\nbackground-image: url(\"../images/hero.jpg\");\nbackground-size: cover;\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;\n}\n.navbar-light .navbar-nav .nav-link{\ncolor: black!important\n;\n}\n.heading{\ntext-align: center;\nmargin-right: 150px;\ncolor:black;\nmargin-bottom: 293px;}\n.para{ margin-top: 100px;}\n.widget{\n\tfont-weight: bold; \n\tfont-size: 40px;\n}\n.picdata{\ntext-align: center;\ncolor: white;}\n.infobox{\nbackground-color: black;}\n.infoitem{font-weight: bold; color: white;border-bottom: 2px solid white;text-align: center; padding-top: 20px;}\n.table{\nbackground-color:black ;\nmargin-top:15px;\n}\n.table .row{\ncolor: white;\nborder-bottom: 2px solid white;\npadding: 10px;\n}\n.back{background-image: url(\"../images/back.jpg\");\nbackground-size: cover;\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;}\n.backdata{\ntext-align: center;\ncolor: white;\npadding-top:375px;\n}\n.interior{\nbackground-image: url(\"../images/interior.jpg\");\nbackground-size: cover;\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;\n}\n.interbox{\ntext-align: center;\n}\n\n.intertext{\n\tbackground-color: black; \n\tcolor:white;\n\tfont-size:26px;\n}\n.interdata{\n    background-color: black; \n    color:white;\n    font-size:26px;}\n.top{\nbackground-image: url(\"../images/top.jpg\");\nbackground-size: cover;\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;\n}\n.topdata{color: white; margin-top: 450px;}\n\n@media(max-width:1200px )\n{\n}\n@media(max-width:1024px )\n{.hero{\nbackground-image: url(\"../images/hero-mobile.jpg\");\nbackground-size: cover;\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;\n}\n.heading {\n    text-align: center;\n    margin-right: 75px;\n    color: black;\n    margin-bottom: 430px;\n    font-size: 76px;\n}\n.para {\n    margin-top: 754px;\n\t    font-size: 30px;\n}\n\n.widget{\n\tfont-weight: bold; \n\tfont-size: 40px;\n\t\n}\n.backdata {\n    font-size: 26px;\n    text-align: center;\n    color: white;\n    padding-top: 822px;\n}\n.topdata{\n\t \n  \n    flex: 0 0 100%;\n    margin-top: 1000px;\n    max-width: 100%;\n\tfont-size:26px;\n\n}\n\n}\n\n\n@media(max-width:990px )\n{\n}\n@media(max-width:768px)\n{.hero{\nbackground-image: url(\"../images/hero-mobile.jpg\");\nbackground-size: cover;\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;\n}\n.heading {\n    text-align: center;\n    margin-right: 75px;\n    color: black;\n    margin-bottom: 328px;\n    font-size: 76px;\n}\n.para {\n    margin-top: 0px;\n\t    font-size: 30px;\n}\n\n.widget{\n\tfont-weight: bold; \n\tfont-size: 40px;\n\t\n}\n.backdata {\n    font-size: 26px;\n    text-align: center;\n    color: white;\n    padding-top: 700px;\n}\n.topdata{\n\t \n  \n    flex: 0 0 100%;\n    margin-top: 725px;\n    max-width: 100%;\n\tfont-size:26px;\n\n}\n}\n\n\n@media(max-width:414px)\n{\n.hero{\nbackground-image: url(\"../images/hero-mobile.jpg\");\nbackground-size: cover;\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;\n}\n.heading {\n    text-align: center;\n    margin-right: 7px;\n    color: black;\n    margin-bottom: 230px;\n    font-size: 50px;\n}\n.para {\n    margin-top: 0px;\n\t    font-size: 18px;\n}\n\n.widget{\n\tfont-weight: bold; \n\tfont-size: 25px;\n\t\n}\n\n.btn{\n    border-radius: 30px; \n    color: white; border: 1px solid white;\n     font-size: 20px !important;\n\n}\n\n.interdata{\n    background-color: black; \n    color:white;\n    font-size:20px;}\n\n\n.backdata {\n    font-size: 20px;\n    text-align: center;\n    color: white;\n    padding-top: 430px;\n}\n.topdata{\n\t \n  \n    flex: 0 0 100%;\n    margin-top: 525px;\n    max-width: 100%;\n\tfont-size:20px;\n\n}\n}\n\n\n\n@media(max-width:375px)\n{\n.hero{\nbackground-image: url(\"../images/hero-mobile.jpg\");\nbackground-size: cover;\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;\n}\n.heading {\n    text-align: center;\n    margin-right: 7px;\n    color: black;\n    margin-bottom: 230px;\n    font-size: 50px;\n}\n.para {\n    margin-top: 0px;\n        font-size: 18px;\n}\n\n.widget{\n    font-weight: bold; \n    font-size: 25px;\n    \n}\n\n.btn{\n    border-radius: 30px; \n    color: white; border: 1px solid white;\n     font-size: 20px !important;\n\n}\n\n.backdata {\n    font-size: 20px;\n    text-align: center;\n    color: white;\n    padding-top: 430px;\n}\n.topdata{\n     \n  \n    flex: 0 0 100%;\n    margin-top: 525px;\n    max-width: 100%;\n    font-size:20px;\n\n}\n}\n\n\n\n\n\n\n@media(max-width:360px)\n{\n.hero{\nbackground-image: url(\"../images/hero-mobile.jpg\");\nbackground-size: cover;\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;\n\n}\n.heading{\ntext-align: center;\nmargin-left: 15px;\npadding-top: 0px;\n}\n.picdata{\ntext-align: center;\ncolor: white;\nmargin-top: 0px;\nmargin-top:0px;\n}\n.para{margin-top:-60px;\n    font-size: 16px;}\n.widget{\n    font-weight: bold; \n    font-size: 20px;\n    \n}\n.btn{\n    font-size: 15px !important;\n}\n\n\n.interdata{\n    background-color: black; \n    color:white;\n    font-size:15px;}\n.backdata{\ntext-align: center;\ncolor: white;\npadding-top:380px;\n    font-size: 15px;\n}\n.topdata{color: white;\n    margin-top: 475px;}\n\n}\n\n\n\n\n@media(max-width:320px)\n{\n.hero{\nbackground-image: url(\"../images/hero-mobile.jpg\");\nbackground-size: cover;\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;\n\n}\n.heading{\ntext-align: center;\nmargin-left: 3px;\npadding-bottom: 150px;\nfont-size: 30px;\n}\n.para{margin-top:-205px;\n    font-size: 14px;}\n.widget{\n    font-weight: bold; \n    font-size: 15px;\n    \n}\n.btn{\n    font-size:10px !important;\n}\n\n\n.interdata{\n    background-color: black; \n    color:white;\n    font-size:16px;}\n\n.topdata{color: white;\n margin-top: 425px;\nfont-size: 16px;}\n.backdata {\n    font-size: 16px;\n    text-align: center;\n    color: white;\n    padding-top: 327px;\n}\n\n}\n/*horizontal  start*/\n\n/* ipad pro strart */\n@media only screen and (device-width: 1366px) and (orientation: landscape)\n{\n.hero{\nbackground-image: url(\"../images/hero.jpg\");\nbackground-size: cover;\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;\n}\n.heading{\ntext-align: center;\nmargin-right: 150px;\ncolor:black;\nmargin-bottom: 492px;\nfont-size: 70px;}\n.para{ margin-top: 100px;\n    font-size: 30px;\n}\n.widget{\n\tfont-weight: bold; \n\tfont-size: 40px;\t\n}\n.topdata{color: white;\n margin-top: 750px;\nfont-size: 27px;\n}\n.backdata{\ntext-align: center;\ncolor: white;\npadding-top:645px;\nfont-size: 27px;\n}\n}\n/* ipad pro end */\n\n/* ipad start */\n@media only screen and (device-width: 1024px) and (orientation: landscape)\n{.hero{\nbackground-image: url(\"../images/hero.jpg\");\nbackground-size: cover;\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;\n}\n.heading{\ntext-align: center;\nmargin-right: 150px;\ncolor:black;\nmargin-bottom: 325px;\nfont-size: 70px;}\n.para{ margin-top: 100px;\n    font-size: 30px;\n}\n.widget{\n\tfont-weight: bold; \n\tfont-size: 40px;\t\n}\n.topdata{color: white;\n margin-top: 550px;\nfont-size: 27px;\n}\n.backdata{\ntext-align: center;\ncolor: white;\npadding-top:505px;\nfont-size: 27px;\n}\n}\n/* ipad end */\n\n\n/* iphonex start */\n@media only screen and (device-width: 812px) and (orientation: landscape)\n{\n.hero{\nbackground-image: url(\"../images/hero.jpg\");\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;\n}\n.heading{\ntext-align: center;\nmargin-right: 584px;\ncolor:black;\nmargin-bottom: 160px;\nfont-size: 23px;}\n.para{ margin-top: 100px;\n    font-size: 20px;\n}\n.stats{\n\tdisplay: none;\n}\n.backdata{\ntext-align: center;\ncolor: white;\npadding-top:225px;\nfont-size: 15px;\n}\n.topdata{color: white;\n margin-top: 280px;\nfont-size: 15px;\n}\n.interdata{\n    background-color: black; \n    color:white;\n    font-size:15px;}\n\n\n}\n/* iphone x end */\n\n/* iphone 6,7,8 plus start */\n@media only screen and (device-width: 736px) and (orientation: landscape)\n{.hero{\nbackground-image: url(\"../images/hero.jpg\");\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;\n}\n.heading{\ntext-align: center;\nmargin-right: 484px;\ncolor:black;\nmargin-bottom: 160px;\nfont-size: 30px;}\n.para{ margin-top: 100px;\n    font-size: 25px;\n}\n.stats{\n\tdisplay: none;\n}\n.backdata{\ntext-align: center;\ncolor: white;\npadding-top:240px;\nfont-size: 15px;\n}\n.topdata{color: white;\n margin-top: 295px;\nfont-size: 15px;\n}\n.interdata{\n    background-color: black; \n    color:white;\n    font-size:15px;}\n\n}\n/* iphone 6,7,8 plus end */\n\n/* iphone 6,7,8start */\n@media only screen and (device-width: 667px) and (orientation: landscape)\n{.hero{\nbackground-image: url(\"../images/hero.jpg\");\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;\n}\n.heading{\ntext-align: center;\nmargin-right: 484px;\ncolor:black;\nmargin-bottom: 160px;\nfont-size: 30px;}\n.para{ margin-top: 100px;\n    font-size: 22px;\n}\n.stats{\n\tdisplay: none;\n}\n.backdata{\ntext-align: center;\ncolor: white;\npadding-top:223px;\nfont-size: 15px;\n}\n.topdata{color: white;\n margin-top: 270px;\nfont-size: 15px;\n}\n.interdata{\n    background-color: black; \n    color:white;\n    font-size:15px;}\n\n}\n/* iphone 6,7,8 end */\n\n\n/* iphone5,se start */\n@media only screen and (device-width: 568px) and (orientation: landscape)\n{.hero{\nbackground-image: url(\"../images/hero.jpg\");\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;\n}\n.heading{\ntext-align: center;\nmargin-right: 415px;\ncolor:black;\nmargin-bottom: 105px;\nfont-size: 25px;}\n.para{ margin-top: 100px;\n    font-size: 20px;\n}\n.stats{\n\tdisplay: none;\n}\n.backdata{\ntext-align: center;\ncolor: white;\npadding-top:180px;\nfont-size: 15px;\n}\n.topdata{color: white;\n margin-top: 221px;\nfont-size: 15px;\n}\n.interdata{\n    background-color: black; \n    color:white;\n    font-size:15px;}\n}\n/* iphone5,se end */\n\n/* pixel 2xl start */\n@media only screen and (device-width: 823px) and (orientation: landscape)\n{.hero{\nbackground-image: url(\"../images/hero.jpg\");\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;\n}\n.heading{\ntext-align: center;\nmargin-right: 622px;\ncolor:black;\nmargin-bottom: 105px;\nfont-size: 25px;}\n.para{ margin-top: 170px;\n    font-size: 20px;\n}\n.stats{\n\tdisplay: none;\n}\n.backdata{\ntext-align: center;\ncolor: white;\npadding-top:263px;\nfont-size: 15px;\n}\n.topdata{color: white;\n margin-top: 310px;\nfont-size: 15px;\n}\n.interdata{\n    background-color: black; \n    color:white;\n    font-size:15px;}\n}\n /* pixel 2xl end */\n\n /* pixel 2 start */\n@media only screen and (device-width: 731px) and (orientation: landscape)\n{.hero{\nbackground-image: url(\"../images/hero.jpg\");\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;\n}\n.heading{\ntext-align: center;\nmargin-right: 527px;\ncolor:black;\nmargin-bottom: 105px;\nfont-size: 32px;}\n.para{ margin-top: 170px;\n    font-size: 20px;\n}\n.stats{\n\tdisplay: none;\n}\n.backdata{\ntext-align: center;\ncolor: white;\npadding-top:263px;\nfont-size: 15px;\n}\n.topdata{color: white;\n margin-top: 310px;\nfont-size: 15px;\n}\n.interdata{\n    background-color: black; \n    color:white;\n    font-size:15px;}\n}\n/* pixel 2 end */\n\n/* galaxy s5 start */\n@media only screen and (device-width: 640px) and (orientation: landscape)\n{.hero{\nbackground-image: url(\"../images/hero.jpg\");\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;\n}\n.heading{\ntext-align: center;\nmargin-right: 463px;\ncolor:black;\nmargin-bottom: 105px;\nfont-size: 32px;}\n.para{ margin-top: 132px;\n    font-size: 20px;\n}\n.stats{\n\tdisplay: none;\n}\n.backdata{\ntext-align: center;\ncolor: white;\npadding-top:214px;\nfont-size: 15px;\n}\n.topdata{color: white;\n margin-top: 257px;\nfont-size: 15px;\n}\n.interdata{\n    background-color: black; \n    color:white;\n    font-size:15px;}\n}\n/* galaxy s5 end */\n\n/*horizontal end*/",
+			"file": "roadster (2).css",
+			"file_size": 12541,
+			"file_write_time": 132130995081267922,
+			"settings":
+			{
+				"buffer_size": 11801,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Admin/Documents/bootstrap/model-s.html",
+			"settings":
+			{
+				"buffer_size": 12819,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "model-s.css",
+			"settings":
+			{
+				"buffer_size": 8393,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "body{\nbackground-color: black;\n\n}\n.hero{\nbackground-image: url(\"../images/hero.jpg\");\nbackground-size: cover;\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;\n}\n.navbar-light .navbar-nav .nav-link{\ncolor: black!important\n;\n}\n.heading{\ntext-align: center;\nmargin-right: 150px;\ncolor:black;\nmargin-bottom: 293px;}\n.para{ margin-top: 100px;}\n.widget{\n\tfont-weight: bold; \n\tfont-size: 40px;\n}\n.picdata{\ntext-align: center;\ncolor: white;}\n.infobox{\nbackground-color: black;}\n.infoitem{font-weight: bold; color: white;border-bottom: 2px solid white;text-align: center; padding-top: 20px;}\n.table{\nbackground-color:black ;\nmargin-top:15px;\n}\n.table .row{\ncolor: white;\nborder-bottom: 2px solid white;\npadding: 10px;\n}\n.back{background-image: url(\"../images/back.jpg\");\nbackground-size: cover;\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;}\n.backdata{\ntext-align: center;\ncolor: white;\npadding-top:375px;\n}\n.interior{\nbackground-image: url(\"../images/interior.jpg\");\nbackground-size: cover;\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;\n}\n.interbox{\ntext-align: center;\n}\n\n.intertext{\n\tbackground-color: black; \n\tcolor:white;\n\tfont-size:26px;\n}\n.interdata{\n    background-color: black; \n    color:white;\n    font-size:26px;}\n.top{\nbackground-image: url(\"../images/top.jpg\");\nbackground-size: cover;\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;\n}\n.topdata{color: white; margin-top: 450px;}\n\n@media(max-width:1200px )\n{\n}\n@media(max-width:1024px )\n{.hero{\nbackground-image: url(\"../images/hero-mobile.jpg\");\nbackground-size: cover;\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;\n}\n.heading {\n    text-align: center;\n    margin-right: 75px;\n    color: black;\n    margin-bottom: 430px;\n    font-size: 76px;\n}\n.para {\n    margin-top: 754px;\n\t    font-size: 30px;\n}\n\n.widget{\n\tfont-weight: bold; \n\tfont-size: 40px;\n\t\n}\n.backdata {\n    font-size: 26px;\n    text-align: center;\n    color: white;\n    padding-top: 822px;\n}\n.topdata{\n\t \n  \n    flex: 0 0 100%;\n    margin-top: 1000px;\n    max-width: 100%;\n\tfont-size:26px;\n\n}\n\n}\n\n\n@media(max-width:990px )\n{\n}\n@media(max-width:768px)\n{.hero{\nbackground-image: url(\"../images/hero-mobile.jpg\");\nbackground-size: cover;\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;\n}\n.heading {\n    text-align: center;\n    margin-right: 75px;\n    color: black;\n    margin-bottom: 328px;\n    font-size: 76px;\n}\n.para {\n    margin-top: 0px;\n\t    font-size: 30px;\n}\n\n.widget{\n\tfont-weight: bold; \n\tfont-size: 40px;\n\t\n}\n.backdata {\n    font-size: 26px;\n    text-align: center;\n    color: white;\n    padding-top: 700px;\n}\n.topdata{\n\t \n  \n    flex: 0 0 100%;\n    margin-top: 725px;\n    max-width: 100%;\n\tfont-size:26px;\n\n}\n}\n\n\n@media(max-width:414px)\n{\n.hero{\nbackground-image: url(\"../images/hero-mobile.jpg\");\nbackground-size: cover;\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;\n}\n.heading {\n    text-align: center;\n    margin-right: 7px;\n    color: black;\n    margin-bottom: 230px;\n    font-size: 50px;\n}\n.para {\n    margin-top: 0px;\n\t    font-size: 18px;\n}\n\n.widget{\n\tfont-weight: bold; \n\tfont-size: 25px;\n\t\n}\n\n.btn{\n    border-radius: 30px; \n    color: white; border: 1px solid white;\n     font-size: 20px !important;\n\n}\n\n.interdata{\n    background-color: black; \n    color:white;\n    font-size:20px;}\n\n\n.backdata {\n    font-size: 20px;\n    text-align: center;\n    color: white;\n    padding-top: 430px;\n}\n.topdata{\n\t \n  \n    flex: 0 0 100%;\n    margin-top: 525px;\n    max-width: 100%;\n\tfont-size:20px;\n\n}\n}\n\n\n\n@media(max-width:375px)\n{\n.hero{\nbackground-image: url(\"../images/hero-mobile.jpg\");\nbackground-size: cover;\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;\n}\n.heading {\n    text-align: center;\n    margin-right: 7px;\n    color: black;\n    margin-bottom: 230px;\n    font-size: 50px;\n}\n.para {\n    margin-top: 0px;\n        font-size: 18px;\n}\n\n.widget{\n    font-weight: bold; \n    font-size: 25px;\n    \n}\n\n.btn{\n    border-radius: 30px; \n    color: white; border: 1px solid white;\n     font-size: 20px !important;\n\n}\n\n.backdata {\n    font-size: 20px;\n    text-align: center;\n    color: white;\n    padding-top: 430px;\n}\n.topdata{\n     \n  \n    flex: 0 0 100%;\n    margin-top: 525px;\n    max-width: 100%;\n    font-size:20px;\n\n}\n}\n\n\n\n\n\n\n@media(max-width:360px)\n{\n.hero{\nbackground-image: url(\"../images/hero-mobile.jpg\");\nbackground-size: cover;\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;\n\n}\n.heading{\ntext-align: center;\nmargin-left: 15px;\npadding-top: 0px;\n}\n.picdata{\ntext-align: center;\ncolor: white;\nmargin-top: 0px;\nmargin-top:0px;\n}\n.para{margin-top:-60px;\n    font-size: 16px;}\n.widget{\n    font-weight: bold; \n    font-size: 20px;\n    \n}\n.btn{\n    font-size: 15px !important;\n}\n\n\n.interdata{\n    background-color: black; \n    color:white;\n    font-size:15px;}\n.backdata{\ntext-align: center;\ncolor: white;\npadding-top:380px;\n    font-size: 15px;\n}\n.topdata{color: white;\n    margin-top: 475px;}\n\n}\n\n\n\n\n@media(max-width:320px)\n{\n.hero{\nbackground-image: url(\"../images/hero-mobile.jpg\");\nbackground-size: cover;\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;\n\n}\n.heading{\ntext-align: center;\nmargin-left: 3px;\npadding-bottom: 150px;\nfont-size: 30px;\n}\n.para{margin-top:-205px;\n    font-size: 14px;}\n.widget{\n    font-weight: bold; \n    font-size: 15px;\n    \n}\n.btn{\n    font-size:10px !important;\n}\n\n\n.interdata{\n    background-color: black; \n    color:white;\n    font-size:16px;}\n\n.topdata{color: white;\n margin-top: 425px;\nfont-size: 16px;}\n.backdata {\n    font-size: 16px;\n    text-align: center;\n    color: white;\n    padding-top: 327px;\n}\n\n}\n/*horizontal  start*/\n\n/* ipad pro strart */\n@media only screen and (device-width: 1366px) and (orientation: landscape)\n{\n.hero{\nbackground-image: url(\"../images/hero.jpg\");\nbackground-size: cover;\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;\n}\n.heading{\ntext-align: center;\nmargin-right: 150px;\ncolor:black;\nmargin-bottom: 492px;\nfont-size: 70px;}\n.para{ margin-top: 100px;\n    font-size: 30px;\n}\n.widget{\n\tfont-weight: bold; \n\tfont-size: 40px;\t\n}\n.topdata{color: white;\n margin-top: 750px;\nfont-size: 27px;\n}\n.backdata{\ntext-align: center;\ncolor: white;\npadding-top:645px;\nfont-size: 27px;\n}\n}\n/* ipad pro end */\n\n/* ipad start */\n@media only screen and (device-width: 1024px) and (orientation: landscape)\n{.hero{\nbackground-image: url(\"../images/hero.jpg\");\nbackground-size: cover;\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;\n}\n.heading{\ntext-align: center;\nmargin-right: 150px;\ncolor:black;\nmargin-bottom: 325px;\nfont-size: 70px;}\n.para{ margin-top: 100px;\n    font-size: 30px;\n}\n.widget{\n\tfont-weight: bold; \n\tfont-size: 40px;\t\n}\n.topdata{color: white;\n margin-top: 550px;\nfont-size: 27px;\n}\n.backdata{\ntext-align: center;\ncolor: white;\npadding-top:505px;\nfont-size: 27px;\n}\n}\n/* ipad end */\n\n\n/* iphonex start */\n@media only screen and (device-width: 812px) and (orientation: landscape)\n{\n.hero{\nbackground-image: url(\"../images/hero.jpg\");\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;\n}\n.heading{\ntext-align: center;\nmargin-right: 584px;\ncolor:black;\nmargin-bottom: 160px;\nfont-size: 23px;}\n.para{ margin-top: 100px;\n    font-size: 20px;\n}\n.stats{\n\tdisplay: none;\n}\n.backdata{\ntext-align: center;\ncolor: white;\npadding-top:225px;\nfont-size: 15px;\n}\n.topdata{color: white;\n margin-top: 280px;\nfont-size: 15px;\n}\n.interdata{\n    background-color: black; \n    color:white;\n    font-size:15px;}\n\n\n}\n/* iphone x end */\n\n/* iphone 6,7,8 plus start */\n@media only screen and (device-width: 736px) and (orientation: landscape)\n{.hero{\nbackground-image: url(\"../images/hero.jpg\");\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;\n}\n.heading{\ntext-align: center;\nmargin-right: 484px;\ncolor:black;\nmargin-bottom: 160px;\nfont-size: 30px;}\n.para{ margin-top: 100px;\n    font-size: 25px;\n}\n.stats{\n\tdisplay: none;\n}\n.backdata{\ntext-align: center;\ncolor: white;\npadding-top:240px;\nfont-size: 15px;\n}\n.topdata{color: white;\n margin-top: 295px;\nfont-size: 15px;\n}\n.interdata{\n    background-color: black; \n    color:white;\n    font-size:15px;}\n\n}\n/* iphone 6,7,8 plus end */\n\n/* iphone 6,7,8start */\n@media only screen and (device-width: 667px) and (orientation: landscape)\n{.hero{\nbackground-image: url(\"../images/hero.jpg\");\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;\n}\n.heading{\ntext-align: center;\nmargin-right: 484px;\ncolor:black;\nmargin-bottom: 160px;\nfont-size: 30px;}\n.para{ margin-top: 100px;\n    font-size: 22px;\n}\n.stats{\n\tdisplay: none;\n}\n.backdata{\ntext-align: center;\ncolor: white;\npadding-top:223px;\nfont-size: 15px;\n}\n.topdata{color: white;\n margin-top: 270px;\nfont-size: 15px;\n}\n.interdata{\n    background-color: black; \n    color:white;\n    font-size:15px;}\n\n}\n/* iphone 6,7,8 end */\n\n\n/* iphone5,se start */\n@media only screen and (device-width: 568px) and (orientation: landscape)\n{.hero{\nbackground-image: url(\"../images/hero.jpg\");\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;\n}\n.heading{\ntext-align: center;\nmargin-right: 415px;\ncolor:black;\nmargin-bottom: 105px;\nfont-size: 25px;}\n.para{ margin-top: 100px;\n    font-size: 20px;\n}\n.stats{\n\tdisplay: none;\n}\n.backdata{\ntext-align: center;\ncolor: white;\npadding-top:180px;\nfont-size: 15px;\n}\n.topdata{color: white;\n margin-top: 221px;\nfont-size: 15px;\n}\n.interdata{\n    background-color: black; \n    color:white;\n    font-size:15px;}\n}\n/* iphone5,se end */\n\n/* pixel 2xl start */\n@media only screen and (device-width: 823px) and (orientation: landscape)\n{.hero{\nbackground-image: url(\"../images/hero.jpg\");\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;\n}\n.heading{\ntext-align: center;\nmargin-right: 622px;\ncolor:black;\nmargin-bottom: 105px;\nfont-size: 25px;}\n.para{ margin-top: 170px;\n    font-size: 20px;\n}\n.stats{\n\tdisplay: none;\n}\n.backdata{\ntext-align: center;\ncolor: white;\npadding-top:263px;\nfont-size: 15px;\n}\n.topdata{color: white;\n margin-top: 310px;\nfont-size: 15px;\n}\n.interdata{\n    background-color: black; \n    color:white;\n    font-size:15px;}\n}\n /* pixel 2xl end */\n\n /* pixel 2 start */\n@media only screen and (device-width: 731px) and (orientation: landscape)\n{.hero{\nbackground-image: url(\"../images/hero.jpg\");\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;\n}\n.heading{\ntext-align: center;\nmargin-right: 527px;\ncolor:black;\nmargin-bottom: 105px;\nfont-size: 32px;}\n.para{ margin-top: 170px;\n    font-size: 20px;\n}\n.stats{\n\tdisplay: none;\n}\n.backdata{\ntext-align: center;\ncolor: white;\npadding-top:263px;\nfont-size: 15px;\n}\n.topdata{color: white;\n margin-top: 310px;\nfont-size: 15px;\n}\n.interdata{\n    background-color: black; \n    color:white;\n    font-size:15px;}\n}\n/* pixel 2 end */\n\n/* galaxy s5 start */\n@media only screen and (device-width: 640px) and (orientation: landscape)\n{.hero{\nbackground-image: url(\"../images/hero.jpg\");\nwidth:100%;\nheight:100vh;\nbackground-repeat: no-repeat;\nbackground-position:center;\n}\n.heading{\ntext-align: center;\nmargin-right: 463px;\ncolor:black;\nmargin-bottom: 105px;\nfont-size: 32px;}\n.para{ margin-top: 132px;\n    font-size: 20px;\n}\n.stats{\n\tdisplay: none;\n}\n.backdata{\ntext-align: center;\ncolor: white;\npadding-top:214px;\nfont-size: 15px;\n}\n.topdata{color: white;\n margin-top: 257px;\nfont-size: 15px;\n}\n.interdata{\n    background-color: black; \n    color:white;\n    font-size:15px;}\n}\n/* galaxy s5 end */\n\n/*horizontal end*/",
+			"file": "css.css",
+			"file_size": 12541,
+			"file_write_time": 132130995081267922,
+			"settings":
+			{
+				"buffer_size": 11801,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Admin/Documents/bootstrap/model-3.html",
+			"settings":
+			{
+				"buffer_size": 13717,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "model-3.css",
+			"settings":
+			{
+				"buffer_size": 2641,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "."
+			}
+		},
+		{
+			"file": "/C/Users/Admin/Documents/bootstrap/model-x.html",
+			"settings":
+			{
+				"buffer_size": 12533,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "model-x.css",
+			"settings":
+			{
+				"buffer_size": 2577,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "."
+			}
+		},
+		{
+			"file": "/C/Users/Admin/Documents/bootstrap/model-y.html",
+			"settings":
+			{
+				"buffer_size": 13730,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "model-y.css",
+			"settings":
+			{
+				"buffer_size": 3037,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "."
+			}
+		},
+		{
+			"file": "/C/Users/Admin/Documents/bootstrap/energy.html",
+			"settings":
+			{
+				"buffer_size": 13430,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "energy.css",
+			"settings":
+			{
+				"buffer_size": 2056,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "."
+			}
+		},
+		{
+			"contents": "\n",
+			"file": "/C/Users/Admin/Documents/script.js",
+			"file_size": 10,
+			"file_write_time": 132144115089946866,
+			"settings":
+			{
+				"buffer_size": 1,
+				"line_ending": "Windows",
+				"name": "<script></"
+			}
+		},
+		{
+			"file": "/C/Users/Admin/Documents/js/javascript/script.js",
+			"settings":
+			{
+				"buffer_size": 187,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Admin/Documents/js/index.html",
+			"settings":
+			{
+				"buffer_size": 2909,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: git",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Admin/Documents/bootstrap/css/roadster.css",
+		"/C/Users/Admin/Documents/bootstrap/css/roadster (2).css",
+		"/G/bootstrap/roadster.html",
+		"/C/Users/Admin/Documents/bootstrap/energy.html",
+		"/C/Users/Admin/Documents/js class/index.html",
+		"/C/Users/Admin/Documents/js/index.html",
+		"/C/Users/Admin/Documents/js/javascript/script.js",
+		"/C/Users/Admin/Documents/index.html",
+		"/G/New folder/css/style.css",
+		"/C/Users/Admin/Documents/bootstrap/model-s.html",
+		"/C/Users/Admin/Documents/bootstrap/css/order.css",
+		"/C/Users/Admin/Documents/bootstrap/css/model-s.css",
+		"/C/Users/Admin/Documents/bootstrap/model-x.html",
+		"/C/Users/Admin/Documents/bootstrap/index.html",
+		"/C/Users/Admin/Documents/bootstrap/css/css.css",
+		"/G/bootstrap/index.html",
+		"/G/Sublime Text 3/unins000.dat",
+		"/G/bootstrap/css/css.css",
+		"/C/Users/Admin/Documents/sws.html",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"confirm",
+			";}"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Admin/Documents/bootstrap/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9402,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3449,
+								3449
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1088.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3442,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3442,
+								3442
+							]
+						],
+						"settings":
+						{
+							"auto_name": ".",
+							"syntax": "Packages/CSS3/CSS3.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1966.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Admin/Documents/bootstrap/order.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5190,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1757,
+								1757
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Admin/Documents/bootstrap/roadster.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11478,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								204,
+								204
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "roadster (2).css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11801,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS3/CSS3.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/Admin/Documents/bootstrap/model-s.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12819,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								651,
+								651
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "model-s.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8393,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								669,
+								619
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS3/CSS3.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 307.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "css.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11801,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS3/CSS3.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 115.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/Admin/Documents/bootstrap/model-3.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13717,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								652,
+								652
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "model-3.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2641,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2489,
+								2489
+							]
+						],
+						"settings":
+						{
+							"auto_name": ".",
+							"syntax": "Packages/CSS3/CSS3.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1366.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/C/Users/Admin/Documents/bootstrap/model-x.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12533,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								652,
+								652
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "model-x.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2577,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								255,
+								255
+							]
+						],
+						"settings":
+						{
+							"auto_name": ".",
+							"syntax": "Packages/CSS3/CSS3.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/C/Users/Admin/Documents/bootstrap/model-y.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13730,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								652,
+								652
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "model-y.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3037,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1387,
+								1387
+							]
+						],
+						"settings":
+						{
+							"auto_name": ".",
+							"syntax": "Packages/CSS3/CSS3.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1225.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/C/Users/Admin/Documents/bootstrap/energy.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13430,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3728,
+								3728
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1178.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "energy.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2056,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1638,
+								1666
+							]
+						],
+						"settings":
+						{
+							"auto_name": ".",
+							"syntax": "Packages/CSS3/CSS3.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 845.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/C/Users/Admin/Documents/script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<script></",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "/C/Users/Admin/Documents/js/javascript/script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 187,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								184,
+								184
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "/C/Users/Admin/Documents/js/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2909,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2438,
+								2438
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 137.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "css.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

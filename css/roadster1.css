@@ -1,0 +1,741 @@
+body{
+background-color: black;
+
+}
+.hero{
+background-image: url("../hero.jpg");
+background-size: cover;
+width:100%;
+height:100vh;
+background-repeat: no-repeat;
+background-position:center;
+}
+.navbar-light .navbar-nav .nav-link{
+color: black!important
+;
+}
+.heading{
+text-align: center;
+margin-right: 150px;
+color:black;
+margin-bottom: 293px;}
+.para{ margin-top: 100px;}
+.widget{
+	font-weight: bold; 
+	font-size: 40px;
+}
+.picdata{
+text-align: center;
+color: white;}
+.infobox{
+background-color: black;}
+.infoitem{font-weight: bold; color: white;border-bottom: 2px solid white;text-align: center; padding-top: 20px;}
+.table{
+background-color:black ;
+margin-top:15px;
+}
+.table .row{
+color: white;
+border-bottom: 2px solid white;
+padding: 10px;
+}
+.back{background-image: url("../images/back.jpg");
+background-size: cover;
+width:100%;
+height:100vh;
+background-repeat: no-repeat;
+background-position:center;}
+.backdata{
+text-align: center;
+color: white;
+padding-top:375px;
+}
+.interior{
+background-image: url("../interior.jpg");
+background-size: cover;
+width:100%;
+height:100vh;
+background-repeat: no-repeat;
+background-position:center;
+}
+.interbox{
+text-align: center;
+}
+
+.intertext{
+	background-color: black; 
+	color:white;
+	font-size:26px;
+}
+.interdata{
+    background-color: black; 
+    color:white;
+    font-size:26px;}
+.top{
+background-image: url("../top.jpg");
+background-size: cover;
+width:100%;
+height:100vh;
+background-repeat: no-repeat;
+background-position:center;
+}
+.topdata{color: white; margin-top: 450px;}
+
+@media(max-width:1200px )
+{
+}
+@media(max-width:1024px )
+{.hero{
+background-image: url("../hero-mobile.jpg");
+background-size: cover;
+width:100%;
+height:100vh;
+background-repeat: no-repeat;
+background-position:center;
+}
+.heading {
+    text-align: center;
+    margin-right: 75px;
+    color: black;
+    margin-bottom: 430px;
+    font-size: 76px;
+}
+.para {
+    margin-top: 754px;
+	    font-size: 30px;
+}
+
+.widget{
+	font-weight: bold; 
+	font-size: 40px;
+	
+}
+.backdata {
+    font-size: 26px;
+    text-align: center;
+    color: white;
+    padding-top: 822px;
+}
+.topdata{
+	 
+  
+    flex: 0 0 100%;
+    margin-top: 1000px;
+    max-width: 100%;
+	font-size:26px;
+
+}
+
+}
+
+
+@media(max-width:990px )
+{
+}
+@media(max-width:768px)
+{.hero{
+background-image: url("../hero-mobile.jpg");
+background-size: cover;
+width:100%;
+height:100vh;
+background-repeat: no-repeat;
+background-position:center;
+}
+.heading {
+    text-align: center;
+    margin-right: 75px;
+    color: black;
+    margin-bottom: 328px;
+    font-size: 76px;
+}
+.para {
+    margin-top: 0px;
+	    font-size: 30px;
+}
+
+.widget{
+	font-weight: bold; 
+	font-size: 40px;
+	
+}
+.backdata {
+    font-size: 26px;
+    text-align: center;
+    color: white;
+    padding-top: 700px;
+}
+.topdata{
+	 
+  
+    flex: 0 0 100%;
+    margin-top: 725px;
+    max-width: 100%;
+	font-size:26px;
+
+}
+}
+
+
+@media(max-width:414px)
+{
+.hero{
+background-image: url("../hero-mobile.jpg");
+background-size: cover;
+width:100%;
+height:100vh;
+background-repeat: no-repeat;
+background-position:center;
+}
+.heading {
+    text-align: center;
+    margin-right: 7px;
+    color: black;
+    margin-bottom: 230px;
+    font-size: 50px;
+}
+.para {
+    margin-top: 0px;
+	    font-size: 18px;
+}
+
+.widget{
+	font-weight: bold; 
+	font-size: 25px;
+	
+}
+
+.btn{
+    border-radius: 30px; 
+    color: white; border: 1px solid white;
+     font-size: 20px !important;
+
+}
+
+.interdata{
+    background-color: black; 
+    color:white;
+    font-size:20px;}
+
+
+.backdata {
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    padding-top: 430px;
+}
+.topdata{
+	 
+  
+    flex: 0 0 100%;
+    margin-top: 525px;
+    max-width: 100%;
+	font-size:20px;
+
+}
+}
+
+
+
+@media(max-width:375px)
+{
+.hero{
+background-image: url("../hero-mobile.jpg");
+background-size: cover;
+width:100%;
+height:100vh;
+background-repeat: no-repeat;
+background-position:center;
+}
+.heading {
+    text-align: center;
+    margin-right: 7px;
+    color: black;
+    margin-bottom: 230px;
+    font-size: 50px;
+}
+.para {
+    margin-top: 0px;
+        font-size: 18px;
+}
+
+.widget{
+    font-weight: bold; 
+    font-size: 25px;
+    
+}
+
+.btn{
+    border-radius: 30px; 
+    color: white; border: 1px solid white;
+     font-size: 20px !important;
+
+}
+
+.backdata {
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    padding-top: 430px;
+}
+.topdata{
+     
+  
+    flex: 0 0 100%;
+    margin-top: 525px;
+    max-width: 100%;
+    font-size:20px;
+
+}
+}
+
+
+
+
+
+
+@media(max-width:360px)
+{
+.hero{
+background-image: url("../hero-mobile.jpg");
+background-size: cover;
+width:100%;
+height:100vh;
+background-repeat: no-repeat;
+background-position:center;
+
+}
+.heading{
+text-align: center;
+margin-left: 15px;
+padding-top: 0px;
+}
+.picdata{
+text-align: center;
+color: white;
+margin-top: 0px;
+margin-top:0px;
+}
+.para{margin-top:-60px;
+    font-size: 16px;}
+.widget{
+    font-weight: bold; 
+    font-size: 20px;
+    
+}
+.btn{
+    font-size: 15px !important;
+}
+
+
+.interdata{
+    background-color: black; 
+    color:white;
+    font-size:15px;}
+.backdata{
+text-align: center;
+color: white;
+padding-top:380px;
+    font-size: 15px;
+}
+.topdata{color: white;
+    margin-top: 475px;}
+
+}
+
+
+
+
+@media(max-width:320px)
+{
+.hero{
+background-image: url("../hero-mobile.jpg");
+background-size: cover;
+width:100%;
+height:100vh;
+background-repeat: no-repeat;
+background-position:center;
+
+}
+.heading{
+text-align: center;
+margin-left: 3px;
+padding-bottom: 150px;
+font-size: 30px;
+}
+.para{margin-top:-205px;
+    font-size: 14px;}
+.widget{
+    font-weight: bold; 
+    font-size: 15px;
+    
+}
+.btn{
+    font-size:10px !important;
+}
+
+
+.interdata{
+    background-color: black; 
+    color:white;
+    font-size:16px;}
+
+.topdata{color: white;
+ margin-top: 425px;
+font-size: 16px;}
+.backdata {
+    font-size: 16px;
+    text-align: center;
+    color: white;
+    padding-top: 327px;
+}
+
+}
+/*horizontal  start*/
+
+/* ipad pro strart */
+@media only screen and (device-width: 1366px) and (orientation: landscape)
+{
+.hero{
+background-image: url("../hero.jpg");
+background-size: cover;
+width:100%;
+height:100vh;
+background-repeat: no-repeat;
+background-position:center;
+}
+.heading{
+text-align: center;
+margin-right: 150px;
+color:black;
+margin-bottom: 492px;
+font-size: 70px;}
+.para{ margin-top: 100px;
+    font-size: 30px;
+}
+.widget{
+	font-weight: bold; 
+	font-size: 40px;	
+}
+.topdata{color: white;
+ margin-top: 750px;
+font-size: 27px;
+}
+.backdata{
+text-align: center;
+color: white;
+padding-top:645px;
+font-size: 27px;
+}
+}
+/* ipad pro end */
+
+/* ipad start */
+@media only screen and (device-width: 1024px) and (orientation: landscape)
+{.hero{
+background-image: url("../hero.jpg");
+background-size: cover;
+width:100%;
+height:100vh;
+background-repeat: no-repeat;
+background-position:center;
+}
+.heading{
+text-align: center;
+margin-right: 150px;
+color:black;
+margin-bottom: 325px;
+font-size: 70px;}
+.para{ margin-top: 100px;
+    font-size: 30px;
+}
+.widget{
+	font-weight: bold; 
+	font-size: 40px;	
+}
+.topdata{color: white;
+ margin-top: 550px;
+font-size: 27px;
+}
+.backdata{
+text-align: center;
+color: white;
+padding-top:505px;
+font-size: 27px;
+}
+}
+/* ipad end */
+
+
+/* iphonex start */
+@media only screen and (device-width: 812px) and (orientation: landscape)
+{
+.hero{
+background-image: url("../hero.jpg");
+width:100%;
+height:100vh;
+background-repeat: no-repeat;
+background-position:center;
+}
+.heading{
+text-align: center;
+margin-right: 584px;
+color:black;
+margin-bottom: 160px;
+font-size: 23px;}
+.para{ margin-top: 100px;
+    font-size: 20px;
+}
+.stats{
+	display: none;
+}
+.backdata{
+text-align: center;
+color: white;
+padding-top:225px;
+font-size: 15px;
+}
+.topdata{color: white;
+ margin-top: 280px;
+font-size: 15px;
+}
+.interdata{
+    background-color: black; 
+    color:white;
+    font-size:15px;}
+
+
+}
+/* iphone x end */
+
+/* iphone 6,7,8 plus start */
+@media only screen and (device-width: 736px) and (orientation: landscape)
+{.hero{
+background-image: url("../hero.jpg");
+width:100%;
+height:100vh;
+background-repeat: no-repeat;
+background-position:center;
+}
+.heading{
+text-align: center;
+margin-right: 484px;
+color:black;
+margin-bottom: 160px;
+font-size: 30px;}
+.para{ margin-top: 100px;
+    font-size: 25px;
+}
+.stats{
+	display: none;
+}
+.backdata{
+text-align: center;
+color: white;
+padding-top:240px;
+font-size: 15px;
+}
+.topdata{color: white;
+ margin-top: 295px;
+font-size: 15px;
+}
+.interdata{
+    background-color: black; 
+    color:white;
+    font-size:15px;}
+
+}
+/* iphone 6,7,8 plus end */
+
+/* iphone 6,7,8start */
+@media only screen and (device-width: 667px) and (orientation: landscape)
+{.hero{
+background-image: url("../hero.jpg");
+width:100%;
+height:100vh;
+background-repeat: no-repeat;
+background-position:center;
+}
+.heading{
+text-align: center;
+margin-right: 484px;
+color:black;
+margin-bottom: 160px;
+font-size: 30px;}
+.para{ margin-top: 100px;
+    font-size: 22px;
+}
+.stats{
+	display: none;
+}
+.backdata{
+text-align: center;
+color: white;
+padding-top:223px;
+font-size: 15px;
+}
+.topdata{color: white;
+ margin-top: 270px;
+font-size: 15px;
+}
+.interdata{
+    background-color: black; 
+    color:white;
+    font-size:15px;}
+
+}
+/* iphone 6,7,8 end */
+
+
+/* iphone5,se start */
+@media only screen and (device-width: 568px) and (orientation: landscape)
+{.hero{
+background-image: url("../hero.jpg");
+width:100%;
+height:100vh;
+background-repeat: no-repeat;
+background-position:center;
+}
+.heading{
+text-align: center;
+margin-right: 415px;
+color:black;
+margin-bottom: 105px;
+font-size: 25px;}
+.para{ margin-top: 100px;
+    font-size: 20px;
+}
+.stats{
+	display: none;
+}
+.backdata{
+text-align: center;
+color: white;
+padding-top:180px;
+font-size: 15px;
+}
+.topdata{color: white;
+ margin-top: 221px;
+font-size: 15px;
+}
+.interdata{
+    background-color: black; 
+    color:white;
+    font-size:15px;}
+}
+/* iphone5,se end */
+
+/* pixel 2xl start */
+@media only screen and (device-width: 823px) and (orientation: landscape)
+{.hero{
+background-image: url("../hero.jpg");
+width:100%;
+height:100vh;
+background-repeat: no-repeat;
+background-position:center;
+}
+.heading{
+text-align: center;
+margin-right: 622px;
+color:black;
+margin-bottom: 105px;
+font-size: 25px;}
+.para{ margin-top: 170px;
+    font-size: 20px;
+}
+.stats{
+	display: none;
+}
+.backdata{
+text-align: center;
+color: white;
+padding-top:263px;
+font-size: 15px;
+}
+.topdata{color: white;
+ margin-top: 310px;
+font-size: 15px;
+}
+.interdata{
+    background-color: black; 
+    color:white;
+    font-size:15px;}
+}
+ /* pixel 2xl end */
+
+ /* pixel 2 start */
+@media only screen and (device-width: 731px) and (orientation: landscape)
+{.hero{
+background-image: url("../hero.jpg");
+width:100%;
+height:100vh;
+background-repeat: no-repeat;
+background-position:center;
+}
+.heading{
+text-align: center;
+margin-right: 527px;
+color:black;
+margin-bottom: 105px;
+font-size: 32px;}
+.para{ margin-top: 170px;
+    font-size: 20px;
+}
+.stats{
+	display: none;
+}
+.backdata{
+text-align: center;
+color: white;
+padding-top:263px;
+font-size: 15px;
+}
+.topdata{color: white;
+ margin-top: 310px;
+font-size: 15px;
+}
+.interdata{
+    background-color: black; 
+    color:white;
+    font-size:15px;}
+}
+/* pixel 2 end */
+
+/* galaxy s5 start */
+@media only screen and (device-width: 640px) and (orientation: landscape)
+{.hero{
+background-image: url("../hero.jpg");
+width:100%;
+height:100vh;
+background-repeat: no-repeat;
+background-position:center;
+}
+.heading{
+text-align: center;
+margin-right: 463px;
+color:black;
+margin-bottom: 105px;
+font-size: 32px;}
+.para{ margin-top: 132px;
+    font-size: 20px;
+}
+.stats{
+	display: none;
+}
+.backdata{
+text-align: center;
+color: white;
+padding-top:214px;
+font-size: 15px;
+}
+.topdata{color: white;
+ margin-top: 257px;
+font-size: 15px;
+}
+.interdata{
+    background-color: black; 
+    color:white;
+    font-size:15px;}
+}
+/* galaxy s5 end */
+
+/*horizontal end*/
